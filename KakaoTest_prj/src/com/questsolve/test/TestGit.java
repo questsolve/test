@@ -3,7 +3,8 @@ package com.questsolve.test;
 public class TestGit {
 
 	public TestGit() {
-		// TODO Auto-generated constructor stub
+		System.out.println(1231);
+		
 	}
 
 }
